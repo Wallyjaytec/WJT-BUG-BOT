@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "node-telegram-bot-api": "^0.66.0",
+    "pino": "^9.5.0"
+  },
+  "name": "WJT-BUG-BOT",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "wallyjaytech",
+  "license": "ISC",
+  "description": "WALLYJAYTECH-BUG-BOT is a Cool Multi-Device WhatsApp and Telegram bot developed by Wally Jay. It offers a wide range of bugs features, making it an advanced and for educational purposes."
+}
